@@ -74,6 +74,7 @@ Donec mollis sollicitudin:
 ## Research Interests
 
 - Machine Learning
+- Artificial Intelligence
 
 ## Education
 
