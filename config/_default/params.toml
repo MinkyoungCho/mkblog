@@ -1,4 +1,4 @@
-mainSections = ["posts"]
+mainSections = ["authors"]
 description = "Eureka is a elegant and powerful theme for Hugo."
 
 repoURL = ""
