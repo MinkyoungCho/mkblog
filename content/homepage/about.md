@@ -75,6 +75,7 @@ Donec mollis sollicitudin:
 
 - Machine Learning
 - Artificial Intelligence
+- Model Compression
 
 ## Education
 
