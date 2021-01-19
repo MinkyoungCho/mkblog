@@ -73,6 +73,8 @@ Donec mollis sollicitudin:
 
 ## Research Interests
 
+- Machine Learning
+
 ## Education
 
 - M.S. in Computer Science, [KAIST](https://www.kaist.ac.kr/en/), 2017 \
@@ -93,5 +95,7 @@ Mijin Kim, **Minkyoung Cho**, Aeyoung Kim, Sang-Ho Lee \
 Korea Computer Congress 2013
 
 ## Patents
+
+
 
 ## Experiences
