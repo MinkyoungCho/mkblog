@@ -4,11 +4,11 @@ weight = 1
 draft = false
 
 role = "Researcher"
-bio = "Aenean vel bibendum quam. Aliquam at mollis quam. Proin efficitur."
+bio = "I am a researcher at Samsung Advanced Institute of Technology (SAIT). My research interests include deep learning, model compression and model acceleration "
 avatar = "images/profile.jpg"
 
 [organization]
-  name = "Samsung Advanced Institute of Technology"
+  name = "Samsung Advanced Institute of Technology, Samsung Electronics"
   url = "https://www.sait.samsung.co.kr/saithome/main/main.do"
 
 [[social]]
@@ -69,13 +69,14 @@ Donec mollis sollicitudin:
 - Nunc dictum purus ornare purus consectetur, eu pellentesque massa ullamcorper.
 - Aliquam eu leo vitae justo aliquam tincidunt.
 - Fusce non massa id augue interdum feugiat sed et nulla.
-- Vivamus molestie augue in tristique laoreet. -->
+- Vivamus molestie augue in tristique laoreet. 
 
 ## Research Interests
 
 - Machine Learning
 - Artificial Intelligence
-- Model Compression
+- Model Compression 
+- Model Compression -->
 
 ## Education
 
