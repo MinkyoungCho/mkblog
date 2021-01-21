@@ -8,7 +8,7 @@ bio = "I am a researcher at Samsung Advanced Institute of Technology, Samsung El
 avatar = "images/profile.jpg"
 
 [organization]
-  name = "Samsung Advanced Institute of Technology"
+  name = "Samsung Advanced Institute of Technology (SAIT)"
   url = "https://www.sait.samsung.co.kr/saithome/main/main.do"
 
 [[social]]
