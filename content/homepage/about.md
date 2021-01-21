@@ -4,11 +4,11 @@ weight = 1
 draft = false
 
 role = "Researcher"
-bio = "I am a researcher at Samsung Advanced Institute of Technology (SAIT). My research interests include deep learning, model compression and model acceleration "
+bio = "I am a researcher at Samsung Advanced Institute of Technology, Samsung Electronics. My research interests include deep learning, model compression and model acceleration."
 avatar = "images/profile.jpg"
 
 [organization]
-  name = "Samsung Advanced Institute of Technology, Samsung Electronics"
+  name = "Samsung Advanced Institute of Technology"
   url = "https://www.sait.samsung.co.kr/saithome/main/main.do"
 
 [[social]]
