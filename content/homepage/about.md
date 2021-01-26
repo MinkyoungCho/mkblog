@@ -26,6 +26,10 @@ avatar = "images/profile.jpg"
   iconPack = "fab"
   url = "https://github.com/MinkyoungCho"
 
+[[social]]
+  text = "CV"
+  url = "/cv/cv_mkcho.pdf"
+
 [widget]
   handler = "about"
     
