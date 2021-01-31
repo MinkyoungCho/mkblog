@@ -103,6 +103,34 @@ Korea Computer Congress 2013
 
 ## Patents
 
+- **"Appratus and Method for Channelwise Neural Network Compression"** \
+Wonjo Lee, Youngmin Oh, and **Minkyoung Cho**
+  - Republic of Korea Patent Application No. 20200132151. Filed Oct 13, 2020.
+- **"Method for Zero-shot Pruning without Retraining"** \
+**Minkyoung Cho**, Searom Choi, and Seungwon Lee
+  - Republic of Korea Patent Application No. 20200128136. Filed Oct 5, 2020.
+- **"Methods for Efficient Group Convolution in Zero-skipping Devices"** \
+Songyi Han, **Minkyoung Cho**, and Seungwon Lee
+  - U.S. Patent Applicatio No. 16/897461. Filed Jun 10, 2020.
+  - Republic of Korea Patent Application No. 20190175484. Filed Dec 26, 2019.
+- **"Method of Replacing Bilinear Interpolation with Depthwise Transposed Convolution"** \
+Donghyeok Kwon and **Minkyoung Cho**
+  - Republic of Korea Patent Application No. 20200111842. Filed Apr 29, 2020.
+- **"Appratus and Method for Neural Network pruning without Retraining"**\
+**Minkyoung Cho**, Wonjo Lee, and Seungwon Lee
+  - Japan Patent Application No. 2020-146931. Filed Sep 1, 2020.
+  - U.S. Patent Applicatio No. 16/835532. Filed Mar 31, 2020.
+  - China Patent Application No. 202010175256. Filed Mar 13, 2020.
+  - Republic of Korea Patent Application No. 20190113527. Filed Sep 16, 2019.
 
 
-## Experiences
+## Experience
+
+- **Researcher**, [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.co.kr/saithome/main/main.do) \
+Mar 2018 - Current
+- **Research Assistant**, [Computer Networks Lab, KAIST](https://cs.kaist.ac.kr/research/labView?sn=65&menu=65) \
+Mar 2015 - Feb 2017
+- **Undergraduate Research Assistant**, [Intelligent Networked Systems Lab, Ewha Womans University](https://inslab-ewha.weebly.com) \
+Nov 2013 - Dec 2014
+- **Undergraduate Research Assistant**, [Security and Theory of Computing Lab, Ewha Womans University](http://home.ewha.ac.kr/~shlee/) \
+Dec 2012 - Feb 2013
