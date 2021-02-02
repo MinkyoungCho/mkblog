@@ -4,7 +4,7 @@ weight = 1
 draft = false
 
 role = "Researcher"
-bio = "I am a researcher at Samsung Advanced Institute of Technology, Samsung Electronics. My research interests include deep learning, model compression and model acceleration."
+bio = "I am a researcher at Samsung Advanced Institute of Technology, Samsung Electronics. My research interests include machine learning, artificial intelligence, model optimization, data generation, zero-shot learning, and model interpretation."
 avatar = "images/profile.jpg"
 
 [organization]
@@ -91,6 +91,9 @@ Advisor: Dr. Younghee Lee
 
 ## Publications
 
+- **Data-Free Mixed-Precision Quantization using Novel Sensitivity Metric** \
+Donghyun Lee\*, **Minkyoung Cho**\*, Seungwon Lee, Joonho Song, and Changkyu Choi (\*: equal contribution)\
+Submitted to IEEE ICIP 2021
 - **[Contextual Relationship-based Activity Segmentation on an Event Stream in the IoT Environment with Multi-user Activities](https://dl.acm.org/doi/10.1145/3008631.3008633)** \
 **Minkyoung Cho**, Younggi Kim, Younghee Lee \
 ACM M4IoT 2016
