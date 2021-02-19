@@ -4,7 +4,7 @@ weight = 1
 draft = false
 
 role = "Researcher"
-bio = "I am a researcher at Samsung Advanced Institute of Technology, Samsung Electronics. My research interests include machine learning, artificial intelligence, model optimization, data generation, zero-shot learning, and model interpretation."
+bio = "I am a researcher at Samsung Advanced Institute of Technology, Samsung Electronics. My research interests include machine learning, artificial intelligence, wireless sensor network, internet of things, ML model optimization, zero-shot learning, and neural network compression for edge devices."
 avatar = "images/profile.jpg"
 
 [organization]
@@ -96,7 +96,7 @@ Donghyun Lee\*, **Minkyoung Cho**\*, Seungwon Lee, Joonho Song, and Changkyu Cho
 Submitted to IEEE ICIP 2021
 - **[Contextual Relationship-based Activity Segmentation on an Event Stream in the IoT Environment with Multi-user Activities](https://dl.acm.org/doi/10.1145/3008631.3008633)** \
 **Minkyoung Cho**, Younggi Kim, Younghee Lee \
-ACM M4IoT 2016
+ACM M4IoT 2016 - Workshop on Middleware for Context-Aware Applications in the IoT
 - **[Proactive patrol dispatch surveillance system by inferring mobile trajectories of multiple intruders using binary proximity sensors](https://ieeexplore.ieee.org/abstract/document/7524369)** \
 Dahee Jung, **Minkyoung Cho**, Omprakash Gnawali, HyungJune Lee \
 IEEE INFOCOM 2016
