@@ -6,7 +6,7 @@ set -e
 printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
 
 # Build the project.
-docker run --rm -it -v ~/.gitconfig:/etc/gitconfig -v $(pwd):/src klakegg/hugo:ext-alpine -t eureka # if using a theme, replace with `hugo -t <YOURTHEME>`
+hugo -t eureka # if using a theme, replace with `hugo -t <YOURTHEME>`
 
 # Go To Public folder
 cd public
