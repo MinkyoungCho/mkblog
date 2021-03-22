@@ -92,7 +92,7 @@ Advisor: Dr. Younghee Lee
 
 ## Publications
 
-- **Data-Free Mixed-Precision Quantization using Novel Sensitivity Metric** \
+- **[Data-Free Mixed-Precision Quantization using Novel Sensitivity Metric](https://arxiv.org/abs/2103.10051)** \
 Donghyun Lee\*, **Minkyoung Cho**\*, Seungwon Lee, Joonho Song, and Changkyu Choi (\*: equal contribution)\
 Submitted to IEEE ICIP 2021
 - **[Contextual Relationship-based Activity Segmentation on an Event Stream in the IoT Environment with Multi-user Activities](https://dl.acm.org/doi/10.1145/3008631.3008633)** \
@@ -113,6 +113,8 @@ Wonjo Lee, Youngmin Oh, and **Minkyoung Cho**
 - **"Method for Zero-shot Pruning without Retraining"** \
 **Minkyoung Cho**, Searom Choi, and Seungwon Lee
   - Republic of Korea Patent Application No. 20200128136. Filed Oct 5, 2020.
+  - U.S. Patent Application No. 17/191954. Filed Mar 8, 2021.
+  - China Patent Application No. 202110246596.3. Filed Mar 5, 2021.
 - **"Methods for Efficient Group Convolution in Zero-skipping Devices"** \
 Songyi Han, **Minkyoung Cho**, and Seungwon Lee
   - U.S. Patent Applicatio No. 16/897461. Filed Jun 10, 2020.
