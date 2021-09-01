@@ -2,8 +2,7 @@
 title = "Minkyoung Cho"
 weight = 1
 draft = false
-lastmod = "2021-02-19"
-
+lastmod = "2021-08-31"
 role = "Researcher"
 bio = "I am a researcher at Samsung Advanced Institute of Technology, Samsung Electronics. My research interests include machine learning, artificial intelligence, wireless sensor network, internet of things, ML model optimization, data generation, and neural network compression for edge devices."
 avatar = "images/profile.jpg"
@@ -92,9 +91,9 @@ Advisor: Dr. Younghee Lee
 
 ## Publications
 
-- **[Data-Free Mixed-Precision Quantization using Novel Sensitivity Metric](https://arxiv.org/abs/2103.10051)** \
+- **[A Novel Sensitivity Metric For Mixed-Precision Quantization With Synthetic Data Generation](https://ieeexplore.ieee.org/abstract/document/9506527)** \
 Donghyun Lee\*, **Minkyoung Cho**\*, Seungwon Lee, Joonho Song, and Changkyu Choi (\*: equal contribution)\
-Submitted to IEEE ICIP 2021
+IEEE ICIP 2021
 - **[Contextual Relationship-based Activity Segmentation on an Event Stream in the IoT Environment with Multi-user Activities](https://dl.acm.org/doi/10.1145/3008631.3008633)** \
 **Minkyoung Cho**, Younggi Kim, Younghee Lee \
 ACM M4IoT 2016 - Workshop on Middleware for Context-Aware Applications in the IoT
@@ -115,14 +114,14 @@ Wonjo Lee, Youngmin Oh, and **Minkyoung Cho**
   - Republic of Korea Patent Application No. 20200128136. Filed Oct 5, 2020.
   - U.S. Patent Application No. 17/191954. Filed Mar 8, 2021.
   - China Patent Application No. 202110246596.3. Filed Mar 5, 2021.
-- **"Methods for Efficient Group Convolution in Zero-skipping Devices"** \
-Songyi Han, **Minkyoung Cho**, and Seungwon Lee
-  - U.S. Patent Applicatio No. 16/897461. Filed Jun 10, 2020.
-  - Republic of Korea Patent Application No. 20190175484. Filed Dec 26, 2019.
 - **"Method of Replacing Bilinear Interpolation with Depthwise Transposed Convolution"** \
 Donghyeok Kwon and **Minkyoung Cho**
   - Republic of Korea Patent Application No. 20200111842. Filed Apr 29, 2020.
-- **"Appratus and Method for Neural Network pruning without Retraining"**\
+- [**"A Method and An Apparatus for Performing Convolution Operations"**](https://patents.google.com/patent/KR20210082970A/en?inventor=minkyoung+cho&assignee=samsung&oq=minkyoung+cho+samsung) \
+Songyi Han, **Minkyoung Cho**, and Seungwon Lee
+  - U.S. Patent Applicatio No. 16/897461. Filed Jun 10, 2020.
+  - Republic of Korea Patent Application No. 20190175484. Filed Dec 26, 2019.
+- [**"Method and Apparatus for Performing Pruning of Neural Network"**](https://patents.google.com/patent/KR20210032140A/en?inventor=minkyoung+cho&assignee=samsung&oq=minkyoung+cho+samsung)\
 **Minkyoung Cho**, Wonjo Lee, and Seungwon Lee
   - Japan Patent Application No. 2020-146931. Filed Sep 1, 2020.
   - U.S. Patent Applicatio No. 16/835532. Filed Mar 31, 2020.
