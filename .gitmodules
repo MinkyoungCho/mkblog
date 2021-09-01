@@ -1,6 +1,3 @@
 [submodule "themes/eureka"]
 	path = themes/eureka
 	url = https://github.com/insujang/hugo-eureka.git
-[submodule "public"]
-	path = public
-	url = https://github.com/MinkyoungCho/minkyoungcho.github.io
