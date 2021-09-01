@@ -27,7 +27,9 @@ avatar = "images/profile.jpg"
   url = "https://github.com/MinkyoungCho"
 
 [[social]]
-  text = "CV"
+  icon = "cv"
+  iconPack = "ai"
+  prefix = "ai"
   url = "/cv/cv_mkcho.pdf"
 
 [widget]
