@@ -2,7 +2,7 @@
 title = "Minkyoung Cho"
 weight = 1
 draft = false
-lastmod = "2021-08-31"
+lastmod = "2021-09-01"
 role = "Researcher"
 bio = "I am a researcher at Samsung Advanced Institute of Technology, Samsung Electronics. My research interests include machine learning, artificial intelligence, wireless sensor network, internet of things, ML model optimization, data generation, and neural network compression for edge devices."
 avatar = "images/profile.jpg"
