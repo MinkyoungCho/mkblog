@@ -2,7 +2,7 @@
 title = "Minkyoung Cho"
 weight = 1
 draft = false
-lastmod = "2021-10-30"
+lastmod = "2021-11-01"
 role = "Researcher"
 bio = "I am a researcher at Samsung Advanced Institute of Technology, Samsung Electronics. My research interests include Systems for Machine Learning, Machine Learning for Systems, Neural Network Optimization for Real-time Systems, On-device AI, and Hardware-efficient Machine Learning Algorithms."
 avatar = "images/profile.jpg"
@@ -14,7 +14,7 @@ avatar = "images/profile.jpg"
 [[social]]
   icon = "envelope"
   iconPack = "fas"
-  url = "mailto:mk0849.cho@samsung.com"
+  url = "mailto:cho_omk@kaist.ac.kr"
 
 [[social]]
   icon = "linkedin"
