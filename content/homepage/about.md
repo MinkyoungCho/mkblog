@@ -2,7 +2,7 @@
 title = "Minkyoung Cho"
 weight = 1
 draft = false
-lastmod = "2021-11-01"
+lastmod = "2021-11-04"
 role = "Researcher"
 bio = "I am a researcher at Samsung Advanced Institute of Technology, Samsung Electronics. My research interests include Systems for Machine Learning, Machine Learning for Systems, Neural Network Optimization for Real-time Systems, On-device AI, and Hardware-efficient Machine Learning Algorithms."
 avatar = "images/profile.jpg"
@@ -133,9 +133,11 @@ Songyi Han, **Minkyoung Cho**, and Seungwon Lee
 
 ## Experience
 
-- **Researcher**, [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.co.kr/saithome/main/main.do) \
-Mar 2018 - Current
-- **Research Assistant**, [Computer Networks Lab, KAIST](https://cs.kaist.ac.kr/research/labView?sn=65&menu=65) \
+- **Research Intern**, Under the supervision of [Kang G. Shin](http://web.eecs.umich.edu/~kgshin/) @ The University of Michigan \
+Feb 2021 - Present
+- **Artificial Intelligence Researcher**, [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.co.kr/saithome/main/main.do) \
+Mar 2018 - Present
+- **Graduate Research Assistant**, [Computer Networks Lab, KAIST](https://cs.kaist.ac.kr/research/labView?sn=65&menu=65) \
 Mar 2015 - Feb 2017
 - **Undergraduate Research Assistant**, [Intelligent Networked Systems Lab, Ewha Womans University](https://inslab-ewha.weebly.com) \
 Nov 2013 - Dec 2014
