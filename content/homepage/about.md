@@ -2,19 +2,19 @@
 title = "Minkyoung Cho"
 weight = 1
 draft = false
-lastmod = "2021-11-04"
-role = "Researcher"
-bio = "I am a researcher at Samsung Advanced Institute of Technology, Samsung Electronics. My research interests include Systems for Machine Learning, Machine Learning for Systems, Neural Network Optimization for Real-time Systems, On-device AI, and Hardware-efficient Machine Learning Algorithms."
+lastmod = "2022-10-02"
+role = "Ph.D. Student"
+bio = "I am a Ph.D. student in Computer Science and Engineering at the University of Michigan, advised by Prof. Z. Morley Mao.  My research interests include autonomous driving, collaborative perception, 3D object detection, 3D scene understanding, anomaly detection."
 avatar = "images/profile.jpg"
 
 [organization]
-  name = "Samsung Advanced Institute of Technology (SAIT)"
-  url = "https://www.sait.samsung.co.kr/saithome/main/main.do"
+  name = "The University of Michigan"
+  url = "https://umich.edu"
 
 [[social]]
   icon = "envelope"
   iconPack = "fas"
-  url = "mailto:cho_omk@kaist.ac.kr"
+  url = "mailto:minkycho@umich.edu"
 
 [[social]]
   icon = "linkedin"
@@ -85,10 +85,11 @@ Donec mollis sollicitudin:
 - Model Compression -->
 
 ## Education
-
-- M.S. in Computer Science, [KAIST](https://www.kaist.ac.kr/en/), 2017 \
+- **Ph.D. Student** in Computer Science and Engineering, [The University of Michigan](https://umich.edu), 2022 - Present \
+Advisor: Dr. [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/)
+- **M.Sc.** in Computer Science, [KAIST](https://www.kaist.ac.kr/en/), 2015 - 2017 \
 Advisor: Dr. Younghee Lee
-- B.S. in Computer Science and Engineering, [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/index.do), 2015 \
+- **B.Sc.** in Computer Science and Engineering, [Ewha Womans University](http://www.ewha.ac.kr/ewhaen/index.do), 2011 - 2015 \
 ***Summa Cum Laude***
 
 ## Publications
@@ -108,38 +109,39 @@ Korea Computer Congress 2013
 
 ## Patents
 
-- **"Appratus and Method for Channelwise Neural Network Compression"** \
-Wonjo Lee, Youngmin Oh, and **Minkyoung Cho**
-  - Republic of Korea Patent Application No. 20200132151. Filed Oct 13, 2020.
-- **"Method for Zero-shot Pruning without Retraining"** \
-**Minkyoung Cho**, Searom Choi, and Seungwon Lee
-  - Republic of Korea Patent Application No. 20200128136. Filed Oct 5, 2020.
-  - U.S. Patent Application No. 17/191954. Filed Mar 8, 2021.
-  - China Patent Application No. 202110246596.3. Filed Mar 5, 2021.
-- **"Method of Replacing Bilinear Interpolation with Depthwise Transposed Convolution"** \
-Donghyeok Kwon and **Minkyoung Cho**
-  - Republic of Korea Patent Application No. 20200111842. Filed Apr 29, 2020.
-- [**"A Method and An Apparatus for Performing Convolution Operations"**](https://patents.google.com/patent/KR20210082970A/en?inventor=minkyoung+cho&assignee=samsung&oq=minkyoung+cho+samsung) \
-Songyi Han, **Minkyoung Cho**, and Seungwon Lee
-  - U.S. Patent Applicatio No. 16/897461. Filed Jun 10, 2020.
-  - Republic of Korea Patent Application No. 20190175484. Filed Dec 26, 2019.
-- [**"Method and Apparatus for Performing Pruning of Neural Network"**](https://patents.google.com/patent/KR20210032140A/en?inventor=minkyoung+cho&assignee=samsung&oq=minkyoung+cho+samsung)\
-**Minkyoung Cho**, Wonjo Lee, and Seungwon Lee
-  - Japan Patent Application No. 2020-146931. Filed Sep 1, 2020.
-  - U.S. Patent Applicatio No. 16/835532. Filed Mar 31, 2020.
-  - China Patent Application No. 202010175256. Filed Mar 13, 2020.
-  - Republic of Korea Patent Application No. 20190113527. Filed Sep 16, 2019.
+- **[Appratus and Method for Channelwise Neural Network Compression](https://patentimages.storage.googleapis.com/82/b3/b5/3652b77fd7fe2a/US20220114453A1.pdf)** \
+Wonjo Lee, Youngmin Oh, and **Minkyoung Cho** \
+U.S. Patent Publication No. US20220114453A1. Apr. 14, 2022.
+- **[Method for Zero-shot Pruning without Retraining](https://patentimages.storage.googleapis.com/2a/76/c3/1436cb6d759f01/US20220108180A1.pdf)** \
+**Minkyoung Cho**, Searom Choi, and Seungwon Lee \
+U.S. Patent Publication No. US20220108180A1. Apr. 7, 2022.
+- **[Method of Replacing Bilinear Interpolation with Depthwise Transposed Convolution](https://patentimages.storage.googleapis.com/65/93/b5/0087b1b6fdf1bd/US20220067429A1.pdf)** \
+Donghyeok Kwon and **Minkyoung Cho** \
+U.S. Patent Publication No. US20220067429A1. Mar. 3, 2022.
+- **[Method and Apparatus for Performing Convolution Operations](https://patentimages.storage.googleapis.com/d4/9e/74/0f46f5127f65e5/US20210201132A1.pdf)** \
+Songyi Han, **Minkyoung Cho**, and Seungwon Lee \
+U.S. Patent Publication No. US20210201132A1. Jul. 1, 2021.
+- **[Method and Apparatus for Performing Pruning of Neural Network](https://patentimages.storage.googleapis.com/c1/cb/54/45c128411b5489/US20210081798A1.pdf)** \
+**Minkyoung Cho**, Wonjo Lee, and Seungwon Lee \
+U.S. Patent Publication No. US20210081798A1. Mar. 18, 2021.
 
 
-## Experience
+## Research Experience
 
-- **Research Intern**, Under the supervision of [Kang G. Shin](http://web.eecs.umich.edu/~kgshin/) @ The University of Michigan \
-Feb 2021 - Present
-- **Artificial Intelligence Researcher**, [Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.co.kr/saithome/main/main.do) \
-Mar 2018 - Present
-- **Graduate Research Assistant**, [Computer Networks Lab, KAIST](https://cs.kaist.ac.kr/research/labView?sn=65&menu=65) \
-Mar 2015 - Feb 2017
-- **Undergraduate Research Assistant**, [Intelligent Networked Systems Lab, Ewha Womans University](https://inslab-ewha.weebly.com) \
-Nov 2013 - Dec 2014
-- **Undergraduate Research Assistant**, [Security and Theory of Computing Lab, Ewha Womans University](http://home.ewha.ac.kr/~shlee/) \
-Dec 2012 - Feb 2013
+- **Graduate Student Research Assistant (GSRA)**, Aug 2022 - Present \
+RobustNet, The University of Michigan (Advisor: Dr. [Z. Morley Mao](https://web.eecs.umich.edu/~zmao/)) 
+
+- **Research Intern**, Feb 2021 - Aug 2022 \
+The University of Michigan (Advisor: Dr. [Kang G. Shin](http://web.eecs.umich.edu/~kgshin/))
+
+- **Artificial Intelligence Researcher**, Mar 2018 - Apr 2021 \
+[Samsung Advanced Institute of Technology (SAIT)](https://www.sait.samsung.co.kr/saithome/main/main.do) 
+
+- **Graduate Research Assistant**, Mar 2015 - Feb 2017 \
+[Computer Networks Lab, KAIST](https://cs.kaist.ac.kr/research/labView?sn=65&menu=65) (Advisor: Dr. Younghee Lee)
+
+- **Undergraduate Research Assistant**, Nov 2013 - Dec 2014 \
+[Intelligent Networked Systems Lab, Ewha Womans University](https://inslab-ewha.weebly.com) (Advisor: Dr. HyungJune Lee)
+
+- **Undergraduate Research Assistant**, Dec 2012 - Feb \
+[Security and Theory of Computing Lab, Ewha Womans University](http://home.ewha.ac.kr/~shlee/) (Advisor: Dr. Sang-Ho Lee)
