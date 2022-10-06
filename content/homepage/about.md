@@ -143,5 +143,5 @@ The University of Michigan (Advisor: Dr. [Kang G. Shin](http://web.eecs.umich.ed
 - **Undergraduate Research Assistant**, Nov 2013 - Dec 2014 \
 [Intelligent Networked Systems Lab, Ewha Womans University](https://inslab-ewha.weebly.com) (Advisor: Dr. HyungJune Lee)
 
-- **Undergraduate Research Assistant**, Dec 2012 - Feb \
+- **Undergraduate Research Assistant**, Dec 2012 - Feb 2013 \
 [Security and Theory of Computing Lab, Ewha Womans University](http://home.ewha.ac.kr/~shlee/) (Advisor: Dr. Sang-Ho Lee)
