@@ -2,7 +2,7 @@
 title = "Minkyoung Cho"
 weight = 1
 draft = false
-lastmod = "2022-10-02"
+lastmod = "2022-11-23"
 role = "Ph.D. Student"
 bio = "I am a Ph.D. student in Computer Science and Engineering at the University of Michigan, advised by Prof. Z. Morley Mao.  My research interests include autonomous driving, collaborative perception, 3D object detection, 3D scene understanding, anomaly detection."
 avatar = "images/profile.jpg"
@@ -15,6 +15,12 @@ avatar = "images/profile.jpg"
   icon = "envelope"
   iconPack = "fas"
   url = "mailto:minkycho@umich.edu"
+
+[[social]]
+  icon = "google-scholar"
+  iconPack = "ai"
+  prefix = "ai"
+  url = "https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1& gmla=AJsN-F6tOtxLBOZJlKDywW3DFsgw46f7PXxQrMsnW0Tm1SafvBTLLLBcFJ7qZSf2NULpMpiYNXbzyJpEve-JesI4JLtUOXKHRA&user=lX1iTbgAAAAJ"
 
 [[social]]
   icon = "linkedin"
@@ -123,7 +129,7 @@ Songyi Han, **Minkyoung Cho**, and Seungwon Lee \
 U.S. Patent Publication No. US20210201132A1. Jul. 1, 2021.
 - **[Method and Apparatus for Performing Pruning of Neural Network](https://patentimages.storage.googleapis.com/c1/cb/54/45c128411b5489/US20210081798A1.pdf)** \
 **Minkyoung Cho**, Wonjo Lee, and Seungwon Lee \
-U.S. Patent Publication No. US20210081798A1. Mar. 18, 2021.
+U.S. Patent Publication No. US20210081798A1. Mar. 18, 2021. **Mounted on Samsung Galaxy S11**
 
 
 ## Research Experience
