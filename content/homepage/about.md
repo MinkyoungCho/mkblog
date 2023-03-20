@@ -100,6 +100,9 @@ Advisor: Dr. Younghee Lee
 
 ## Publications
 
+- **[DynaMIX: Resource Optimization for DNN-Based Real-Time Applications on a Multi-Tasking System](https://arxiv.org/abs/2302.01568)** \
+**Minkyoung Cho**  and Kang G. Shin \
+arXiv 2023
 - **[A Novel Sensitivity Metric For Mixed-Precision Quantization With Synthetic Data Generation](https://ieeexplore.ieee.org/abstract/document/9506527)** \
 Donghyun Lee\*, **Minkyoung Cho**\*, Seungwon Lee, Joonho Song, and Changkyu Choi (\*: equal contribution)\
 IEEE ICIP 2021

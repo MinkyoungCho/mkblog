@@ -5,7 +5,7 @@ repoURL = ""
 # If it is a Github repo, leave blank
 repoEditURL = ""
 
-dateFormat = ""
+dateFormat = "Jan 1 2006"
 
 titleSeparator = ""
 

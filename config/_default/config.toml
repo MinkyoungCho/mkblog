@@ -39,3 +39,6 @@ defaultContentLanguageInSubdir = false
 
 [build]
   useResourceCacheWhen = "always"
+
+[permalinks]
+  posts = "/:year-:month-:day/:slug/"
